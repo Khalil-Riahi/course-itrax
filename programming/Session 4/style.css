@@ -1,0 +1,30 @@
+.wihi
+{
+    width:100px;
+    height: 100px;
+}
+
+.red
+{
+    background-color:rgb(148, 42, 42);
+    width: 100px;
+    height: 100px;
+    float:right;
+    margin-right: 0px;
+    margin-left:1000px;
+}
+
+.yellow
+{
+    background-color:rgb(170, 170, 48);
+}
+
+.blue
+{
+    background-color:rgb(85, 198, 206);
+}
+
+.clr
+{
+    clear:both;
+}
